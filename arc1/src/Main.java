@@ -3,6 +3,7 @@
 import java.util.Scanner;
 import java.util.Random;
 
+// this is a test for git lets goooo
 
 void main() {
     boolean MenuRunning = true;
